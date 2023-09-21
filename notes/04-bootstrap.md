@@ -38,3 +38,15 @@ order-# puts the order you want things in, in numerical order.
 order 1 is first for mobile
 order 1,2,3 and on up
 put your style css at the bottom of the heading if you want to override the bootstrap
+marquee makes items go side to side in animation
+position: absolute;
+position-relative
+
+@media(max-width: 767px){
+    .hero-image{
+        background-image: url()
+    }
+}
+ALWAYS PUT MEDIA AT THE BOTTOM OF STYLE SHEET
+d-none d-md-block to switch between phone and desktop views when coming to certain text/icons
+light house in dev tools is used to test asecibility ratings.
