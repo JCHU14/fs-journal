@@ -1,15 +1,15 @@
 # Intro to JavaScript
 01. Which keywords are used to declare a variable in JavaScript?
 
-    > | ANSWER HERE |
+    > | let, var, const |
 
 02. What is the definition of a function?
 
-    > | ANSWER HERE |
+    > | a process that creates action within java |
 
 03. What are the `SOLID` principles?
 
-    > | ANSWER HERE |
+    > | Single Responsibility Principle, Open-Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion Principle |
 
 04. Given this array: How could you remove the `pineapple`?
 
@@ -17,7 +17,7 @@
     let fruit = ['apple', 'banana', 'pineapple', 'orange', 'strawberry']
     ```
 
-    > | ANSWER HERE |
+    > | if its talking about removing the string factor you would take away the back ticks so it no longer displays 'pineapple' in a display form. or you could do const fruit= ['apple', 'banana', 'orange', 'strawberry'] |
 
 05. Given these two objects: How could you add each to the others friends arrays?
 
@@ -34,23 +34,23 @@
     }
     ```
 
-    > | ANSWER HERE |
+    > | put "them" or "you" not as strings inside of each objects? |
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > | if() else() |
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > | argument is the value that is passed to the function and parameters are one of the variables. |
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE |
+    > | Use the dev tools to figure out your issues within inspect etc. |
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
-    > | ANSWER HERE |
+    > | Primitive values include numbers, strings, booleans, undefined. Reference is the range of values in a sense. |
 
 10. Demonstrate a loop that prints the numbers between -100 and 100?
 

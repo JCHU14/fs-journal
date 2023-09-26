@@ -16,3 +16,9 @@ userinput is a placeholder
 document. in java represents all of html file
 on the element that you want to target through java script on html you use a ID tag inside of said element tag
 document.getelementid to grab a entire element
+
+
+arrays hold two items of importance
+? is a turnary
+? 'love' : 'hate' a "if()" statement inside of objects
+
