@@ -21,4 +21,4 @@ document.getelementid to grab a entire element
 arrays hold two items of importance
 ? is a turnary
 ? 'love' : 'hate' a "if()" statement inside of objects
-
+Sweetalert2 is good for better pop up windows
