@@ -42,6 +42,8 @@ marquee makes items go side to side in animation
 position: absolute;
 position-relative
 
+you can put rows inside of columns so they can bunch in a certain section
+
 @media(max-width: 767px){
     .hero-image{
         background-image: url()
